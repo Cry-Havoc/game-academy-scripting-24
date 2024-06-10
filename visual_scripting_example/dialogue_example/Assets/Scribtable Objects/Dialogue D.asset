@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1cf7594183165645a581e67c7fa8828, type: 3}
+  m_Name: Dialogue D
+  m_EditorClassIdentifier: 
+  main_text: Dialogue D
+  answer_a_text: Go to Start
+  answer_b_text: Go to End
+  answer_a_node: {fileID: 11400000, guid: 03c2cf1a5ba93724d9dce365a929a3ec, type: 2}
+  answer_b_node: {fileID: 11400000, guid: 00748544e40a41d4597a8e6942ffe610, type: 2}
