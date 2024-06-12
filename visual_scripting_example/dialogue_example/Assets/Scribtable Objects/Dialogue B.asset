@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d1cf7594183165645a581e67c7fa8828, type: 3}
   m_Name: Dialogue B
   m_EditorClassIdentifier: 
-  main_text: Dialogue B
+  main_text: Selber Langweilig
   answer_a_text: Answer C
   answer_b_text: Answer E
   answer_a_node: {fileID: 11400000, guid: 9927a5e735423fe4da85431a00f0a67e, type: 2}
-  answer_b_node: {fileID: 0}
+  answer_b_node: {fileID: 11400000, guid: 0368b92e759ab7f4e829ab75edf817a2, type: 2}
